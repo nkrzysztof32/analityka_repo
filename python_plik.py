@@ -6,7 +6,7 @@ def element (nastepna_war =0.0):
 		nastepna_war += 1
 wynik =[]
 for e in element():
-	wynik.append(int(e))
+	wynik.append(int(e))#dodawanie komentarzy
 	if e >=b-1:
 		break
 for i in wynik:
@@ -24,4 +24,4 @@ for g in wynik:
 			print(a[1])
 		else:
 			break
-	print(a[1])
+	print(a[1])#wszystko poprawione jest OK

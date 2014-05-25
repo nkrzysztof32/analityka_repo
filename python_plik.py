@@ -21,6 +21,7 @@ for g in wynik:
 		if x<int(d[g][1]):
 			a[0]=x
 			a[1]=a[0]+a[1]
+			print(a[1])
 		else:
 			break
 	print(a[1])

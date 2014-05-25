@@ -23,4 +23,4 @@ for g in wynik:
 			a[1]=a[0]+a[1]
 		else:
 			break
-	print(a[1])
+	print(a[1])#wszystko poprawione jest OK
